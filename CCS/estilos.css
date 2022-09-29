@@ -1,0 +1,14 @@
+body {background-color: gray;}
+.contenedor {width: 1500px;margin: auto;
+border-radius: 15px; background:white;}
+.encabezado{}
+.c2{text-align: center}
+.c1 { width: 1000px; display: inline-block;
+vertical-align: top; text-align: justify;
+padding:700px;}
+.c1 h2{color:black;}
+.c1 { width: 500px; display: inline-block;
+vertical-align: top; text-align: justify;
+padding:20px;}
+.pie {color: black; text-align: center;}
+.titulo { text-align: center; color: darkblue;}
